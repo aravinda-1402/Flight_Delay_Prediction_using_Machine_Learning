@@ -1,6 +1,3 @@
-# Flight Delay Prediction
-All code was written in Google Colab and later transferred here: https://github.com/jwgerlach00/flight_delay_prediction
-
 ## Conda Environment
 Provided as conda_environment.yml. Create using: conda env create -f conda_environment.yml (source: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
