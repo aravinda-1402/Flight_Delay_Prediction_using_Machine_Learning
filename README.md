@@ -1,3 +1,5 @@
+**Project work done as part of CSC 522 (001) Spring 2024 Automated Learning and Data Analysis**
+
 ## Conda Environment
 Provided as conda_environment.yml. Create using: conda env create -f conda_environment.yml (source: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
