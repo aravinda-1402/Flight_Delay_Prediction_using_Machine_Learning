@@ -1,7 +1,5 @@
 # Deciphering Air Travel Disruptions: A Machine Learning Approach ✈️
 
-**Project work done as part of CSC 522 (001) Spring 2024 Automated Learning and Data Analysis**
-
 ## Conda Environment 📦
 Provided as `conda_environment.yml`. Create using: 
 ```bash
