@@ -1,5 +1,7 @@
 # Deciphering Air Travel Disruptions: A Machine Learning Approach ✈️
 
+📄 **Paper link:** https://arxiv.org/abs/2408.02802
+
 ## Conda Environment 📦
 Provided as `conda_environment.yml`. Create using: 
 ```bash
