@@ -12,7 +12,9 @@ conda env create -f conda_environment.yml
 ## Notebooks 📓
 
 ### `src/preprocessing.ipynb`
-Notebook for preprocessing dataset sourced from: [Flight Delay and Cancellation Dataset 2019-2023](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023?select=flights_sample_3m.csv)
+Notebook for preprocessing.
+
+Dataset sourced from: [Flight Delay and Cancellation Dataset 2019-2023](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023?select=flights_sample_3m.csv)
 
 Creates processed label-encoded data and processed one-hot-encoded data. Splits data into train and test sets. Saves the data in CSV format. One-hot-encoded data was experimented with but ultimately not chosen due lacking computational power to handle a massive increase in features.
 
