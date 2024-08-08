@@ -1,6 +1,6 @@
 # Deciphering Air Travel Disruptions: A Machine Learning Approach ✈️
 
-📄 **Paper link:** https://arxiv.org/abs/2408.02802
+📄 **Paper link:** https://doi.org/10.48550/arXiv.2408.02802
 
 ## Conda Environment 📦
 Provided as `conda_environment.yml`. Create using: 
